@@ -1,0 +1,26 @@
+#canvas{
+    background-color: aqua;
+    height: 500px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#score{
+    color: blue;
+    font-size: 48px;
+}
+
+#button{
+    background-color: blueviolet;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 32px;
+    color:white;
+
+}
